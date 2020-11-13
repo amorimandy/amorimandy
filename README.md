@@ -12,12 +12,12 @@ Olá, meu nome é Andressa, mas pode me chamar de Andy!
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimandy&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=amorimandy&theme=buefy"/></td>
+        ![](https://github-readme-stats.vercel.app/api?username=amorimandy&show_icons=true&theme=buefy)
 
     </tr>   
   </table>
 </center> 
 
 
-![](https://github-readme-stats.vercel.app/api?username=amorimandy&show_icons=true&theme=buefy)
+
 <!--![](https://komarev.com/ghpvc/?username=amorimandye&color=yellowgreen)-->
