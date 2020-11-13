@@ -11,9 +11,8 @@ Olá, meu nome é Andressa, mas pode me chamar de Andy!
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimandy&hide=html&layout=compact&theme=buefy" /></td>
+        ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimandy&layout=compact)
         ![](https://github-readme-stats.vercel.app/api?username=amorimandy&show_icons=true&theme=buefy)
-
     </tr>   
   </table>
 </center> 
