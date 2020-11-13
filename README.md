@@ -1,12 +1,12 @@
 <img src="imgs/Andressa-Amorim.png" width=100%></h2>
 Olá, meu nome é Andressa, mas pode me chamar de Andy!
 
-- 🔭 Original do Amazonas, fisioterapeuta aprendendo tech <3
-- 🌱 Estudando Java, HTML, CSS, JS e design
-- 📫 Me encontre: 
+- :city_sunrise: Original do Amazonas vivendo em Campinas, fisioterapeuta aprendendo tech <3
+- :book: Estudando Java, HTML, CSS, JS e design
+- :envelope: Me encontre: 
     - <a href="https://www.linkedin.com/in/amorimandy"><img src="imgs/linkedin.png" width="30"></img></a> Andressa Amorim
     - <a href="mailto:dev.andymal@gmail.com"><img src="imgs/email.png" width="30"></img></a> dev.andyamorim
-- Introvertida, culinária, trabalhos manuais (costura, pintura, massinhas e biscuit)
+- :sparkling_heart: Introvertida, culinária, trabalhos manuais (costura, pintura, massinhas e biscuit)
 
 <!--![](https://komarev.com/ghpvc/?username=amorimandye&color=yellowgreen)-->
 <center>
