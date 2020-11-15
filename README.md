@@ -1,4 +1,4 @@
-<img src="imgs/Andressa-Amorim.png" width=100%></h2>
+![Output sample](https://github.com/amorimandy/amorimandy/blob/main/amorimandy.gif)
 Olá, meu nome é Andressa, mas pode me chamar de Andy!
 
 - :city_sunrise: Original do Amazonas vivendo em Campinas, fisioterapeuta aprendendo tech <3
