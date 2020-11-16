@@ -7,7 +7,7 @@ Olá, meu nome é Andressa, mas pode me chamar de Andy!
 
 - :envelope: Me encontre: 
     - <a href="https://www.linkedin.com/in/amorimandy"><img src="imgs/linkedin.png" width="30"></img></a> Andressa Amorim
-    - <a href="mailto:dev.andymal@gmail.com"><img src="imgs/email.png" width="30"></img></a> dev.andyamorim
+    - <a href="mailto:dev.andymal@gmail.com"><img src="imgs/email.png" width="30"></img></a> dev.andymal
     
 - :sparkling_heart: Introvertida, culinária, trabalhos manuais (costura, pintura, massinhas e biscuit)
 
