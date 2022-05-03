@@ -1,11 +1,5 @@
-![Output sample](https://github.com/amorimandy/amorimandy/blob/main/amorimandy.gif)
-Olá, meu nome é Andressa, mas pode me chamar de Andy!
-
-- :city_sunrise: Original do Amazonas morando em Campinas, fisioterapeuta aprendendo tech <3
-
-- :envelope: Me encontre: 
-    - <a href="https://www.linkedin.com/in/amorimandy"><img src="imgs/linkedin.png" width="30"></img></a> Andressa Amorim
-    - <a href="mailto:dev.andymal@gmail.com"><img src="imgs/email.png" width="30"></img></a> dev.andymal
+- <a href="https://www.linkedin.com/in/amorimandy"><img src="imgs/linkedin.png" width="30"></img> Andressa Amorim </a>
+- <a href="mailto:dev.andymal@gmail.com"><img src="imgs/email.png" width="30"></img> dev.andymal@gmail.com </a>
     
 <!--![](https://komarev.com/ghpvc/?username=amorimandye&color=yellowgreen)-->
 <center>
