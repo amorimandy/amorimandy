@@ -1,4 +1,4 @@
-- <a href="https://www.linkedin.com/in/amorimandy"><img src="imgs/linkedin.png" width="30"></img> Andressa Amorim </a>
+- <a href="https://www.linkedin.com/in/limaandy"><img src="imgs/linkedin.png" width="30"></img> Andressa Lima </a>
 - <a href="mailto:dev.andymal@gmail.com"><img src="imgs/email.png" width="30"></img> dev.andymal@gmail.com </a>
     
 <!--![](https://komarev.com/ghpvc/?username=amorimandye&color=yellowgreen)-->
